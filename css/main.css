@@ -62,7 +62,7 @@ html {
   display: inline-block;
   padding: .5em .75em;
   background-color: #ccc;
-  boder-radius: 4px;
+  border-radius: 4px;
   color: #000;
   text-decoration: none;
 }
